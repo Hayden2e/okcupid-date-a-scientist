@@ -1,6 +1,6 @@
 ## Overview
 
-This portfolio project uses the publicly available OKCupid Profiles data in order to build supervised machine learning models to predict users' orientation from structured profiles (information like age, sex, income, education, diet etc.) and free-text essay submissions.
+This portfolio project uses publicly available OKCupid Profiles data in order to build supervised machine learning models. The selected goal is to predict users' orientation from their structured profile data (information like age, sex, income, education, diet etc.) and free-text essay submissions.
 
 The raw data used is not included within this repository due to file size limits. I acquired it from Kaggle.
 
