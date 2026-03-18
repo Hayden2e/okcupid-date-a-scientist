@@ -28,9 +28,8 @@ Model development includes:
 * Threshold optimization beyond default argmax decision rules  
 * Feature engineering, including interaction terms  
 
-Despite systematic optimization, performance gains were modest, suggesting limited predictive signal in structured variables alone.
+Despite systematic optimization, performance gains were modest, suggesting limited predictive signal in the users' structured data. Users' profile data (unstructured essays) were incorporated in the form of features derived using TF-IDF, to attempt further improvement in the MLR model. This resulted in an increase of macro F1 score from 0.50 to 0.57.
 
-
-This project will be concluded with a neural network to (hopefully!) produce more accurate predictions.
+This project will be concluded with a neural network to produce more accurate predictions.
 
 
